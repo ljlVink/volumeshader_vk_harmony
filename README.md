@@ -1,4 +1,4 @@
-# Volumeshader HarmonyOS
+# Volumeshader
 
 Volumeshader vulkan port for HarmonyOS
 
